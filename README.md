@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **: I love playing basketball**
 
-- 📫 portfolio **: [Data Analysis portfolio](https://globalsmile.github.io)**
+- 📫 portfolio **: [Data Analyst portfolio](https://globalsmile.github.io)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
