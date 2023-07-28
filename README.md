@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Badmus</h1>
-<h3 align="center">Full Stack Engineer and Cloud Engineer currently in training.</h3>
+<h3 align="center">Full Stack Software Engineer and Cloud Engineer currently in training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=globalsmile&label=Profile%20views&color=0e75b6&style=flat" alt="globalsmile" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [AltSchool first semester assignment](https://dapper-kelpie-180827.netlify.app/)
 
-- 🌱 I’m currently learning **Full Stack Engineering with ALX Africa and Cloud Engineering with AltSchool Africa**
+- 🌱 I’m currently learning **Full Stack Software Engineering with ALX Africa and Cloud Engineering with AltSchool Africa**
 
 - 💬 Ask me about **Software, Cloud, Data**
 
