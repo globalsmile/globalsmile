@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohammed Badmus</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Badmus also known as GlobalSmile</h1>
 <h3 align="center">Full Stack Software Engineer and Cloud Engineer currently in training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=globalsmile&label=Profile%20views&color=0e75b6&style=flat" alt="globalsmile" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=globalsmile" alt="globalsmile" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_globaslsmile" target="blank"><img src="https://img.shields.io/twitter/follow/_globaslsmile?logo=twitter&style=for-the-badge" alt="_globaslsmile" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_globalsmile" target="blank"><img src="https://img.shields.io/twitter/follow/_globalsmile?logo=twitter&style=for-the-badge" alt="_globalsmile" /></a> </p>
 
 - 🔭 I’m currently working on [AltSchool first semester assignment](https://dapper-kelpie-180827.netlify.app/)
 
